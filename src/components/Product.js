@@ -9,17 +9,17 @@ function Product()
   return(
     <div className="products">
       <div className="box">
-        <img src={one} width={200} height={200}></img>
+        <img src={one} width={200} height={200} alt="This is MEN perfumy"></img>
         <hr></hr>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum velit aliquid quis et iure tempora voluptatem sequi consequuntur, laborum repellat vitae magni distinctio esse perferendis optio quisquam dicta, praesentium harum!</p>
       </div>
       <div className="box">
-        <img src={two} width={200} height={200}></img>
+        <img src={two} width={200} height={200} alt="This is VeraWang perfumy"></img>
         <hr></hr>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae deserunt id harum sed corrupti voluptatem aperiam dolores tempore aliquid aut repellat eaque ipsum suscipit repudiandae quasi, doloribus quis accusantium? Fuga.</p>
       </div>
       <div className="box">
-        <img src={three} width={200} height={200}></img>
+        <img src={three} width={200} height={200} alt="This is Bombshell perfumy"></img>
         <hr></hr>
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe, modi cupiditate accusamus facere expedita labore inventore hic est accusantium dicta nam possimus a eligendi maxime corporis fuga nihil sunt repellendus?</p>
       </div>

@@ -4,7 +4,7 @@ function Navbar()
 {
   return(
     <nav>
-      <h1>Perfumy</h1>
+      <h1 class="h1">Perfumy</h1>
       <ul>
         <li>Home |</li>
         <li>Product |</li>
